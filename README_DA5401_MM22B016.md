@@ -7,13 +7,12 @@
 
 ## 📁 Repository Structure
 ```
-├── DA5401_Assignment7_MM22B016.ipynb
+├── DA_lab_MM22B016.ipynb
 ├── train_data.json
 ├── test_data.json
 ├── metric_name_embeddings.npy
 ├── metric_names.json
 ├── sample_submission.csv
-├── DA5401_Final_Report_MM22B016.docx
 ├── README.md
 ```
 
