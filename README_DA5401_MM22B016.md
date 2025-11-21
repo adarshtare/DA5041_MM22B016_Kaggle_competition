@@ -12,7 +12,6 @@
 ├── test_data.json
 ├── metric_name_embeddings.npy
 ├── metric_names.json
-├── sample_submission.csv
 ├── README.md
 ```
 
